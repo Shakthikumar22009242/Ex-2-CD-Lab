@@ -79,6 +79,6 @@ int main() {
 
 ```
 # OUTPUT
-![](CD_EX02.png)
+![](/CD_EX02.png)
 # RESULT
 The lexical analyzer is implemented using lex and the output is verified.
